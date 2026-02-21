@@ -1,0 +1,66 @@
+[
+    {
+        "id": "luminai",
+        "name": "LuminAI",
+        "website": "https://stripe.com",
+        "sector": "AI",
+        "stage": "series-a",
+        "short_desc": "Enterprise AI platform for automated document processing and intelligent workflows."
+    },
+    {
+        "id": "paystream",
+        "name": "PayStream",
+        "website": "https://wise.com",
+        "sector": "FinTech",
+        "stage": "seed",
+        "short_desc": "Real-time payment infrastructure for cross-border B2B transactions."
+    },
+    {
+        "id": "medicore",
+        "name": "MediCore",
+        "website": "https://tempus.com",
+        "sector": "HealthTech",
+        "stage": "series-b",
+        "short_desc": "Precision medicine platform using genomic data to personalize cancer treatment plans."
+    },
+    {
+        "id": "carbonzero",
+        "name": "CarbonZero",
+        "website": "https://climatebase.org",
+        "sector": "Climate",
+        "stage": "seed",
+        "short_desc": "Carbon accounting SaaS helping mid-market companies measure and offset emissions."
+    },
+    {
+        "id": "devforge",
+        "name": "DevForge",
+        "website": "https://vercel.com",
+        "sector": "Dev Tools",
+        "stage": "series-a",
+        "short_desc": "Cloud-native developer platform with instant preview environments and CI/CD pipelines."
+    },
+    {
+        "id": "shieldnet",
+        "name": "ShieldNet",
+        "website": "https://crowdstrike.com",
+        "sector": "Cybersecurity",
+        "stage": "series-b",
+        "short_desc": "AI-powered endpoint protection and threat intelligence for distributed workforces."
+    },
+    {
+        "id": "synthwave",
+        "name": "SynthWave",
+        "website": "https://huggingface.co",
+        "sector": "AI",
+        "stage": "seed",
+        "short_desc": "Open-source toolkit for training and deploying custom large language models on-prem."
+    },
+    {
+        "id": "neobank",
+        "name": "NeoBank",
+        "website": "https://mercury.com",
+        "sector": "FinTech",
+        "stage": "series-a",
+        "short_desc": "Digital banking platform built for startups with automated bookkeeping and treasury."
+    }
+]
